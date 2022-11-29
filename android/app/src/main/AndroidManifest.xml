@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.prueba_ingreso_ceiba.name">
+    <uses-permission android:name="android.permission.INTERNET" /> 
    <application
         android:label="Prueba de Ingreso Ceiba"
         android:name="${applicationName}"
